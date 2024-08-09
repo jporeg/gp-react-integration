@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+![image](https://github.com/user-attachments/assets/1132b5f6-a58a-42f7-8da5-b5d30c2e8fad)
+![image](https://github.com/user-attachments/assets/8af27c81-4b71-4c51-a093-f977cb27af50)
+![image](https://github.com/user-attachments/assets/fd9221b4-5c2e-4433-a8b7-5ccc0721d2e4)
+![image](https://github.com/user-attachments/assets/7c89f3d3-0aee-470f-a4fd-0cfb76fee6b3)
+![image](https://github.com/user-attachments/assets/f77b9544-09a3-451f-81b2-a5eba0cafc16)
+![image](https://github.com/user-attachments/assets/1ba09790-6b1c-4875-8608-35a2111314e5)
+
 # gp-react-integration
 3.3 gp
 =======
